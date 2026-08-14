@@ -11,7 +11,7 @@ import os
 # 0. 路径设置
 # ============================================
 RAW_DIR = "data/raw"
-OUT_DIR = "data/powerbi"
+OUT_DIR = "powerbi"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ============================================
